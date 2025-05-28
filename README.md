@@ -43,7 +43,7 @@ Precisamos definir o comando que irá rodar o projeto para que de fato o código
 
 ```json
 ...
-"start": "ts-node-dev --respawn --transpileOnly src/index.ts"
+"start": "ts-node-dev --respawn --transpileOnly src/index.ts" 
 ...
 ```
 
