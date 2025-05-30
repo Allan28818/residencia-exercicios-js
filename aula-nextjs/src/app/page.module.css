@@ -1,0 +1,36 @@
+.button1 {
+    width: 100px;
+    height: 100px;
+    padding: 50px;
+    background-color: rgb(79, 206, 168);
+    font-size: 3rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid black;
+    border-radius: 20px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.button2 {
+    width: 100px;
+    height: 100px;
+    padding: 50px;
+    background-color: rgb(206, 79, 128);
+    font-size: 3rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid black;
+    border-radius: 20px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.div {
+    gap: 10;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
